@@ -1,0 +1,36 @@
+header {
+    width: max-content;
+    margin: 0 auto;
+    text-align: center;
+    color: white;
+}
+
+header * {
+    margin: 0;
+}
+
+header h1 {
+    font-weight: 700;
+    margin-top: 21px;
+}
+
+.subtitle {
+    margin-bottom: 10px;
+    font-size: 0.9rem;
+    color: #439775;
+}
+
+.website {
+    font-size: 0.7rem;
+    text-decoration: none;
+    transition: 100ms ease-in-out;
+    color: white;
+}
+
+.website:hover {
+    color: #439775;
+}
+
+.website:visited {
+    color: white;
+}

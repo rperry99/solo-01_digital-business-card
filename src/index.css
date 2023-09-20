@@ -1,6 +1,7 @@
 /* Basic Formatting */
 * {
   box-sizing: border-box;
+  font-family: 'Raleway', Arial, Helvetica, sans-serif;
 }
 
 body {
