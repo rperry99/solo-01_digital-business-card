@@ -1,0 +1,18 @@
+.content-container {
+    color: white;
+    width: 80%;
+    margin: 30px auto 130px;
+}
+
+.content-container h2 {
+    margin: 0;
+    margin-top: 15px;
+    font-size: 1.15rem;
+}
+
+.content-container p {
+    margin: 0;
+    margin-top: 5px;
+    font-size: .7rem;
+    line-height: 1.15rem;
+}
