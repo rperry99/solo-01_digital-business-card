@@ -1,0 +1,24 @@
+footer {
+    width: 100%;
+    background: #161619;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    bottom: 0;
+    border-radius: 0 0 10px 10px;
+}
+
+.social-link,
+.social-link:visited,
+.social-link:active {
+    color: #918e9b;
+}
+
+.social-link {
+    font-size: 2.5rem;
+}
+
+.social-link + .social-link {
+    margin-left: 24px;
+}
