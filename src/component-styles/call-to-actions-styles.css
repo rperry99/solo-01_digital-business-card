@@ -1,0 +1,29 @@
+.cta-container {
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    margin: 15px auto;
+}
+
+.cta {
+    background: white;
+    color: #374151;
+    text-decoration: none;
+    font-weight: 700;
+    padding: 9px 16px;
+    border-radius: 6px;
+    display: flex;
+    flex-direction: row;
+    width: 46%;
+    justify-content: center;
+    font-size: .9rem;
+}
+
+.cta-linkedin {
+    color: white;
+    background: #5093E2;
+}
+
+.cta i {
+    margin-right: 10px;
+}
